@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "lv_fs_if.h": "c",
+        "lv_port_fs.h": "c",
+        "*.tcc": "cpp",
+        "lvgl.h": "c",
+        "string": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}

@@ -1,0 +1,1 @@
+void page5_init();
