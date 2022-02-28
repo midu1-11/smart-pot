@@ -2,7 +2,7 @@
 ## 一.项目简介
 本项目是利用寒假时间做的一个练手项目，目的是学习vscode+platformio ESP32开发，嵌入式GUI框架LVGL的移植和使用。platformio IDE具有编译速度快、结构清晰等特点。
 ## 二.开源链接
-演示视频:  
+演示视频:  https://www.bilibili.com/video/BV1ZU4y1Z7sd?spm_id_from=333.999.0.0
   
 hardware文件夹中有原理图的pdf和pcb的gerber文件以及外壳stl文件  
   
